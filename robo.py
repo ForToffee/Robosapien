@@ -1,6 +1,7 @@
 # by Carl Monk (@ForToffee)
 # github.com/ForToffee/Robosapien
 # based on work from http://playground.arduino.cc/Main/RoboSapienIR
+# command codes originally from http://www.aibohack.com/robosap/ir_codes.htm
 
 import time
 import pigpio # http://abyz.co.uk/rpi/pigpio/python.html
